@@ -116,8 +116,7 @@ body{
 }
 
 .redes img{
-    padding: 0px 30px;
-    width: 90px;
+    width: 30px;
     height: auto;
     transition: transform 0.3 ease;
 }
