@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+}
+
+body{
+    
+    background-image: url(imgs/domingo2.jpg);
+    /* background: linear-gradient(to bottom,#5ae8e8, #78dede); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    backdrop-filter: blur(px);
+}
+
+
+.nombre{
+    background-image: url(imgs/logo.png);
+    background-size: 125px;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-color:rgb(90, 232, 232, .5);
+    text-align: center;
+    padding: 50px;
+    backdrop-filter: blur(3px);
+    font-size: 19px;
+}
+
+.info_igle{
+    text-align: center;
+    color: rgb(228, 243, 17);
+    padding: 50px 10px;
+    background-color: rgba(61, 58, 58, 0.5);
+    backdrop-filter: blur(3px);
+}
+
+.cultos{
+    text-align: center;
+    -webkit-text-stroke: 1px;
+    color: rgb(0, 0, 0);
+    padding: 30px 30px ;
+    background-color: rgba(61, 58, 58, 0.5);
+    backdrop-filter: blur(3px);
+    
+}
+
+.hora{
+    padding: 0px;
+}
+
+.m{ 
+    color: rgb(254, 2, 2);
+    background-image: url(imgs/miercoles.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    height: 100px;
+    padding: 10px;
+}
+
+.v{
+    color: rgb(225, 255, 0);
+    background-image: url(imgs/viernes.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    height: 100px;
+    padding: 10px;
+}
+
+.d{
+    color: rgb(7, 252, 232);
+    background-image: url(imgs/domingo1.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    height: 70px;
+    padding: 10px;
+}
