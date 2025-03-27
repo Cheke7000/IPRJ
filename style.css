@@ -5,7 +5,6 @@
 body{
     
     background-image: url(imgs/domingo2.jpg);
-    /* background: linear-gradient(to bottom,#5ae8e8, #78dede); */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -23,7 +22,7 @@ body{
     background-color:rgb(90, 232, 232, .5);
     text-align: center;
     padding: 50px;
-    backdrop-filter: blur(3px);
+    backdrop-filter: blur(5px);
     font-size: 19px;
 }
 
@@ -31,7 +30,6 @@ body{
     text-align: center;
     color: rgb(228, 243, 17);
     padding: 50px 10px;
-    background-color: rgba(61, 58, 58, 0.5);
     backdrop-filter: blur(3px);
 }
 
@@ -40,7 +38,6 @@ body{
     -webkit-text-stroke: 1px;
     color: rgb(0, 0, 0);
     padding: 30px 30px ;
-    background-color: rgba(61, 58, 58, 0.5);
     backdrop-filter: blur(3px);
     
 }
@@ -103,7 +100,6 @@ body{
     padding: 40px 0px;
     color: rgb(228, 243, 17);
     padding: 50px 10px;
-    background-color: rgba(61, 58, 58, 0.5);
     backdrop-filter: blur(3px);
 }
 
